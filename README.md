@@ -183,6 +183,11 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 #EXTINF:-1  tvg-id="Entertainment - [Channel 86].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" group-title="🔴NASIONAL🔴"tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_86.png",ENT
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntertainment.mpd|Referer=https://www.visionplus.id/&user-agent=Android
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRatQuKMpjdWzTGTDM51QrBlaFPNYx7FtoOlQ&s" group-title="🔴NASIONAL🔴",BRTV HD
+https://5bf7b725107e5.streamlock.net/brtv/brtv/playlist.m3u8
+
+
+
 
                                        ==========="BRI LIGA"========
 
@@ -342,7 +347,7 @@ http://aflaxtv.xyz:8080/Wat068/924a937d/264774
 http://cempedak-live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
 #EXTINF:-1 tvg-logo="https://mantul.biz.id:443/images/TJC7rhtnO3ZKX8c3jrf5EFsGlOXwsm6GQtqyzSBNrpNwwrMe604GQioDGB3Nd37Flk5Eiv73WhaFgmVlS29Aj_oYcxRELOmbcWGuoJ8ZHbI.png" group-title="Movie",HITS
 https://d1abp075u76pbq.cloudfront.net/live/eds/HITS/sa_dash_vmx/HITS.mpd
-#EXTINF:-1 tvg-logo="https://mantul.biz.id:443/images/TJC7rhtnO3ZKX8c3jrf5EFsGlOXwsm6GQtqyzSBNrpNwwrMe604GQioDGB3Nd37Flk5Eiv73WhaFgmVlS29Aj7nK26DGnjL895J44fNgd1M.pnghttps://mantul.biz.id:443/images/S3qjABwxNNrSZo8bz52n6WLRCGvxOa1GP3TWmrz2yel_1y0kBgs_aS8i8RUkR0vr5s7S6-jQRRDz0bpduY3nDw.png" group-title="MovieMovie",HITS MoviesIMC
+#EXTINF:-1 tvg-logo="https://mantul.biz.id:443/images/TJC7rhtnO3ZKX8c3jrf5EFsGlOXwsm6GQtqyzSBNrpNwwrMe604GQioDGB3Nd37Flk5Eiv73WhaFgmVlS29Aj7nK26DGnjL895J44fNgd1M.pnghttps://mantul.biz.id:443/images/S3qjABwxNNrSZo8bz52n6WLRCGvxOa1GP3TWmrz2yel_1y0kBgs_aS8i8RUkR0vr5s7S6-jQRRDz0bpduY3nDw.png" group-title="Movie",HITS MoviesIMC
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/264769
 #EXTINF:-1 tvg-logo="https://mantul.biz.id:443/images/TJC7rhtnO3ZKX8c3jrf5EFsGlOXwsm6GQtqyzSBNrpNwwrMe604GQioDGB3Nd37Flk5Eiv73WhaFgmVlS29AjxRRStSF0WBtvmNtU4K5V1k.png" group-title="Movie",KIX
 https://cempedak-live-cdn.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
@@ -438,16 +443,13 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CartoonitoHD/mpd/CartoonitoHD.mpd
 https://d1abp075u76pbq.cloudfront.net/live/eds/Dreamwork-HD/sa_dash_vmx/Dreamwork-HD.mpd
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvpNqWyt5SpJ48j6fnHtoetqZYMlCjlpWAyuq5XUdO9ZoFVoIeF2nIpyY&s=10" group-title="KIDS",DREAMWORKS 1
 https://atemecdnbalancer-voe.sysln.id/live/eds/DreamWorksHD/mpd/DreamWorksHD.mpd
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvpNqWyt5SpJ48j6fnHtoetqZYMlCjlpWAyuq5XUdO9ZoFVoIeF2nIpyY&s=10https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvpNqWyt5SpJ48j6fnHtoetqZYMlCjlpWAyuq5XUdO9ZoFVoIeF2nIpyY&s=10" group-title="KIDSKIDS",DREAMWORKS 2DREAMWORKS 3
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvpNqWyt5SpJ48j6fnHtoetqZYMlCjlpWAyuq5XUdO9ZoFVoIeF2nIpyY&s=10https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvpNqWyt5SpJ48j6fnHtoetqZYMlCjlpWAyuq5XUdO9ZoFVoIeF2nIpyY&s=10" group-title="KIDS",DREAMWORKS 2DREAMWORKS 3
 http://exm3u.extraott.com:900/live/ZUL96376/UG4VTW4E/45050.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvpNqWyt5SpJ48j6fnHtoetqZYMlCjlpWAyuq5XUdO9ZoFVoIeF2nIpyY&s=10" group-title="KIDS",DREAMWORKS INDI 4
 https://cdn08jtedge.indihometv.com/dassdvr/133/dreamworks/manifest.mpd
 #EXTINF:-1 tvg-logo="https://mantul.biz.id:443/images/TJC7rhtnO3ZKX8c3jrf5EFsGlOXwsm6GQtqyzSBNrpNwwrMe604GQioDGB3Nd37Flk5Eiv73WhaFgmVlS29Aj_epL6OaN4pBtIOJ9ReXfrc.png" group-title="KIDS",NICKELODEON
 https://d1abp075u76pbq.cloudfront.net/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
-#EXTINF:-1 tvg-logo="https://mantul.biz.id:443/images/TJC7rhtnO3ZKX8c3jrf5EFsGlOXwsm6GQtqyzSBNrpNwwrMe604GQioDGB3Nd37Flk5Eiv73WhaFgmVlS29Aj_epL6OaN4pBtIOJ9ReXfrc.pnghttps://mantul.biz.id:443/images/TJC7rhtnO3ZKX8c3jrf5EFsGlOXwsm6GQtqyzSBNrpNwwrMe604GQioDGB3Nd37Flk5Eiv73WhaFgmVlS29Aj6sz-iPAf7Uy54ObYgfmEok.png" group-title="KIDSKIDS",NICKELODEON 1NICK JR
-https://d1abp075u76pbq.cloudfront.net/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd
-#EXTINF:-1 tvg-logo="https://mantul.biz.id:443/images/TJC7rhtnO3ZKX8c3jrf5EFsGlOXwsm6GQtqyzSBNrpNwwrMe604GQioDGB3Nd37Flk5Eiv73WhaFgmVlS29Aj6sz-iPAf7Uy54ObYgfmEok.pnghttps://static.wikia.nocookie.net/logopedia/images/0/09/Cinemachi-kids.png/revision/latest/scale-to-width-down/1200?cb=20250228035421" group-title="KIDSKIDS",NICK JR 1CINEMACHI KIDS
-https://d1abp075u76pbq.cloudfront.net/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cinemachi-Kids-HD.mpd
+
 #EXTINF:-1 tvg-logo="https://mantul.biz.id:443/images/TJC7rhtnO3ZKX8c3jrf5EFsGlOXwsm6GQtqyzSBNrpNwwrMe604GQioDGB3Nd37Flk5Eiv73WhaFgmVlS29Ajwjp5TybWi39hDq4Rs9XIAg.png" group-title="KIDS",CARTOON NETWORK TRV 1
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856b8d2390016b9c3ee6c21d7c/manifest.mpd
 #EXTINF:-1 tvg-logo="https://mantul.biz.id:443/images/TJC7rhtnO3ZKX8c3jrf5EFsGlOXwsm6GQtqyzSBNrpNwwrMe604GQioDGB3Nd37Flk5Eiv73WhaFgmVlS29Ajwjp5TybWi39hDq4Rs9XIAg.png" group-title="KIDS",CARTOON NETWORK TRV 2
@@ -510,40 +512,24 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
                                                 ==========="RELIGI"========
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwJOe7cyrztkYXnXxif7oW7WhZFWaGrslJagGMmEbl-Xo27s5z3PN_XX4&s=10" group-title="RELIGI",LIVE MAKKAH
-https://cempedak-live-cdn.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem.mpd
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwJOe7cyrztkYXnXxif7oW7WhZFWaGrslJagGMmEbl-Xo27s5z3PN_XX4&s=10" group-title="RELIGI",LIVE MAKKAH
-https://cempedak-live-cdn.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem.mpd
+#EXTINF:-1 tvg-logo="https://l.top4top.io/p_31985tia01.png" group-title="RELIGI",DISCLAMER
+https://l.top4top.io/m_3372yzsto1.mp4
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwJOe7cyrztkYXnXxif7oW7WhZFWaGrslJagGMmEbl-Xo27s5z3PN_XX4&s=10" group-title="RELIGI",MAKKAH TV
 https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Logo-deikidstv.png" group-title="RELIGI",DEI KIDS TV
-https://flv.intechmedia.net/live/ch29.m3u8
-#EXTINF:-1 tvg-logo="https://lo1.in/indo/mus2.png" group-title="RELIGI",MNC MUSLIM
-https://cempedak-live-cdn.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd
-#EXTINF:-1 tvg-logo="https://lo1.in/indo/mus2.png" group-title="RELIGI",MNC MUSLIM
-https://cempedak-cdn-fly.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd
-#EXTINF:-1 tvg-logo="https://lo1.in/indo/mus2.png" group-title="RELIGI",MNC MUSLIM
-https://cempedak-live-cdn.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiDSeuc8e-RUg0AeHYNPv82bOhj1JEbSEUKpUmtFVpa__8K6RZeWIVvoZ5&s=10" group-title="RELIGI",TAWAF TV
-https://cempedak-cdn-fly.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiDSeuc8e-RUg0AeHYNPv82bOhj1JEbSEUKpUmtFVpa__8K6RZeWIVvoZ5&s=10" group-title="RELIGI",TAWAF TV
-https://cempedak-live-cdn.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd
-#EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/khazanah.png" group-title="RELIGI",KHAZANAH TV TRV
-https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856f08326c016f557be28131b9/manifest.mpd
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/0/0d/TV_MUI.png/640px-TV_MUI.png" group-title="RELIGI",TV MUI
 https://mui.siar.us/mui/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRijtwzqPdSQe7dKgqZbJNrgONhAsf67NtEv5E2-8uRGWbDv2RZS74zbg4J&s=10" group-title="RELIGI",TV 10 HD
 https://video1.earthcam.com/myearthcam/641f889a7774a38d5fc93dc76c4aeded.flv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/TV9NUSANTARA1.png/revision/latest?cb=20220525022727" group-title="RELIGI",TV9 HD
 https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d0/TvMu.png" group-title="RELIGI",TVMU HD
-https://cempedak-live-cdn.mncnow.id/live/eds/TVMuhammadiyahnow/sa_dash_vmx/TVMuhammadiyahnow.mpd
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/Rodja_TV.png/revision/latest/scale-to-width-down/284?cb=20180922034039" group-title="RELIGI",RODJA TV
 https://rodjatv.com/rodjatv/live_480p1128kbs/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/Rodja_TV.png/revision/latest/scale-to-width-down/284?cb=20180922034039" group-title="RELIGI",RODJA TV
 https://rodjatv.com/rodjatv/live.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRatQuKMpjdWzTGTDM51QrBlaFPNYx7FtoOlQ&s" group-title="RELIGI",BRTV HD
-https://5bf7b725107e5.streamlock.net/brtv/brtv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSovz_jFB1R6mHvSqU5x3jyNVo_aUFg7q7lhiyqyvGj3dfBoSdI_fLm3x4&s=10" group-title="RELIGI",AL WAFA TARIM
 https://ammedia.siar.us/ammedia/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/8/81/Logo_MQTV.png/1200px-Logo_MQTV.png" group-title="RELIGI",MQTV HD
