@@ -169,7 +169,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 #EXTINF:-1 group-title="🔴NASIONAL🔴"tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/3/3b/Logo_Jawapos_TV.png/150px-Logo_Jawapos_TV.png", Jawa Pos TV
 https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ag3DlGE4zs35O8ozWQWV1XTunvA=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/10975/tes-elshinta-tv-eb36eb.jpg" group-title="🔴NASIONAL", Elshinta TV 
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ag3DlGE4zs35O8ozWQWV1XTunvA=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/10975/tes-elshinta-tv-eb36eb.jpg" group-title="🔴NASIONAL🔴", Elshinta TV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://op-group2-swiftservesd-1.dens.tv/s/s12/S4/mnf.m3u8
 
@@ -196,7 +196,8 @@ https://warningfm.github.io/v3/live/str/id/575eeb9f08dc8db.m3u8
 
 
 
-
+#EXTINF:-1 tvg-logo="https://l.top4top.io/p_31985tia01.png" group-title="Berita",DISCLAMER
+https://l.top4top.io/m_3372yzsto1.mp4
 #EXTINF:-1 tvg-logo="https://mantul.biz.id:443/images/pab2R7PWBHNTPmE5N3UhiLLHf2JmUPhCSjh3QT2-G7jSYCp4GDYk7GHFnYUcMYfPKlc7oz86uzkC52ltFhIL-qgje3X8JLQWmcEwzXgmi5A.png" group-title="Berita",Kompas TV
 https://cempedak-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 #EXTINF:-1 tvg-logo="https://mantul.biz.id:443/images/pab2R7PWBHNTPmE5N3UhiLLHf2JmUPhCSjh3QT2-G7jSYCp4GDYk7GHFnYUcMYfPKlc7oz86uzkC52ltFhIL-qgje3X8JLQWmcEwzXgmi5A.png" group-title="Berita",Kompas TV🔴 
@@ -257,59 +258,12 @@ https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8?check
 
 
 
-                                          ==========="HBO-FMX"========
-
-
-#EXTINF:-1 tvg-logo="https://cdn3.iconfinder.com/data/icons/social-network-30/512/social-06-512.png" group-title="HBO-FMX",YT  PUTRA TALAWI
-https://youtube.com/@PutraTalawi-s9m
-#EXTINF:-1 tvg-logo="https://mantul.biz.id:443/images/TJC7rhtnO3ZKX8c3jrf5EFsGlOXwsm6GQtqyzSBNrpNwwrMe604GQioDGB3Nd37Flk5Eiv73WhaFgmVlS29Aj41hfEFm0BCGI0XxQGGEeQg.png" group-title="HBO-FMX",HBO
-http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/210.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="HBO-FMX",HBO Hits
-http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/591.ts
-#EXTINF:-1 tvg-logo="https://www.liblogo.com/img-logo/hb7524h5d2-hbo-family-logo-hbo-family-logopedia-.png" group-title="HBO-FMX",HBO Family
-http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/592.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="HBO-FMX",HBO Signature
-http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/873.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="HBO-FMX",Cinemax
-http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/2156.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="HBO-FMX",Cinemax
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/2156.ts
-
-
-                                               ==========="HBO-Transcorp"========
-
-
-
-#EXTINF:-1 tvg-logo="https://cdn3.iconfinder.com/data/icons/social-network-30/512/social-06-512.png" group-title="HBO-Transcorp",YT  PUTRA TALAWI
-https://youtube.com/@PutraTalawi-s9m
-#EXTINF:-1 tvg-logo="https://mantul.biz.id:443/images/TJC7rhtnO3ZKX8c3jrf5EFsGlOXwsm6GQtqyzSBNrpNwwrMe604GQioDGB3Nd37Flk5Eiv73WhaFgmVlS29Aj41hfEFm0BCGI0XxQGGEeQg.png" group-title="HBO-Transcorp",HBO
-https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
-#EXTINF:-1 tvg-logo="hbo hits" group-title="HBO-Transcorp",HBO HITS
-https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
-#EXTINF:-1 tvg-logo="https://mantul.biz.id:443/images/TJC7rhtnO3ZKX8c3jrf5EFsGlOXwsm6GQtqyzSBNrpNwwrMe604GQioDGB3Nd37Flk5Eiv73WhaFgmVlS29Aj8K8151zXT0twascJAFmyak.png" group-title="HBO-Transcorp",HBO FAMILY
-https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
-#EXTINF:-1 tvg-logo="https://mantul.biz.id:443/images/S3qjABwxNNrSZo8bz52n6WLRCGvxOa1GP3TWmrz2yekHySmj0dwDYi8CATwIOZmEU0lY8n9YOAu3mPrEghhG_g.png" group-title="HBO-Transcorp",HBO SIGNATURE
-https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
-#EXTINF:-1 tvg-logo="https://mantul.biz.id:443/images/TJC7rhtnO3ZKX8c3jrf5EFsGlOXwsm6GQtqyzSBNrpNwwrMe604GQioDGB3Nd37Flk5Eiv73WhaFgmVlS29Aj25A1lSAAFYmtJ2N8UkELoc.png" group-title="HBO-Transcorp",CINEMAX
-https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
-#EXTINF:-1 tvg-logo="https://mantul.biz.id:443/images/TJC7rhtnO3ZKX8c3jrf5EFsGlOXwsm6GQtqyzSBNrpNwwrMe604GQioDGB3Nd37Flk5Eiv73WhaFgmVlS29Aj41hfEFm0BCGI0XxQGGEeQg.png" group-title="HBO-Transcorp",HBO
-https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
-#EXTINF:-1 tvg-logo="hbo hits" group-title="HBO-Transcorp",HBO HITS
-https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
-#EXTINF:-1 tvg-logo="https://mantul.biz.id:443/images/TJC7rhtnO3ZKX8c3jrf5EFsGlOXwsm6GQtqyzSBNrpNwwrMe604GQioDGB3Nd37Flk5Eiv73WhaFgmVlS29Aj8K8151zXT0twascJAFmyak.png" group-title="HBO-Transcorp",HBO FAMILY
-https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
-#EXTINF:-1 tvg-logo="https://mantul.biz.id:443/images/S3qjABwxNNrSZo8bz52n6WLRCGvxOa1GP3TWmrz2yekHySmj0dwDYi8CATwIOZmEU0lY8n9YOAu3mPrEghhG_g.png" group-title="HBO-Transcorp",HBO SIGNATURE
-https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
-#EXTINF:-1 tvg-logo="https://mantul.biz.id:443/images/TJC7rhtnO3ZKX8c3jrf5EFsGlOXwsm6GQtqyzSBNrpNwwrMe604GQioDGB3Nd37Flk5Eiv73WhaFgmVlS29Aj25A1lSAAFYmtJ2N8UkELoc.png" group-title="HBO-Transcorp",CINEMAX
-https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
-
-
                                             ==========="Movie"========
 
 
 
-#EXTINF:-1 tvg-logo="https://cdn3.iconfinder.com/data/icons/social-network-30/512/social-06-512.png" group-title="Movie",YT  PUTRA TALAWI
-https://youtube.com/@PutraTalawi-s9m
+#EXTINF:-1 tvg-logo="https://l.top4top.io/p_31985tia01.png" group-title="Movie",DISCLAMER
+https://l.top4top.io/m_3372yzsto1.mp4
 #EXTINF:-1 tvg-logo="https://mantul.biz.id:443/images/TJC7rhtnO3ZKX8c3jrf5EFsGlOXwsm6GQtqyzSBNrpNwwrMe604GQioDGB3Nd37Flk5Eiv73WhaFgmVlS29Ajyz8vuUMLYGI8u4UrnWV6Lg.png" group-title="Movie",AXN
 http://203.77.246.14:8001/udp/239.1.2.234:5000
 #EXTINF:-1 tvg-logo="https://mantul.biz.id:443/images/TJC7rhtnO3ZKX8c3jrf5EFsGlOXwsm6GQtqyzSBNrpNwwrMe604GQioDGB3Nd37Flk5Eiv73WhaFgmVlS29Ajyz8vuUMLYGI8u4UrnWV6Lg.png" group-title="Movie",AXN
@@ -456,6 +410,8 @@ https://dl.dropboxusercontent.com/scl/fi/v8xrj5wfr9ek8yozm6j3r/prive-2.m3u8?rlke
                                        ==========="KIDS"========
 
 
+#EXTINF:-1 tvg-logo="https://l.top4top.io/p_31985tia01.png" group-title="KIDS",DISCLAMER
+https://l.top4top.io/m_3372yzsto1.mp4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/7f/Kids_TV_%282020%29.png" group-title="KIDS",KIDS TV
 https://d1abp075u76pbq.cloudfront.net/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/7f/Kids_TV_%282020%29.png" group-title="KIDS",KIDS TV 1
