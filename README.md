@@ -189,6 +189,55 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 https://streaming-web.thairath.co.th/live/playlist_hd/index.m3u8
 
 
+                           ==========================================ASIA U17 =================================================================
+
+
+
+#EXTINF:-1 group-title="PIALA ASIA U17" tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/u17.png", ASIA 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+https://bintangstreaming.my.id/connect/index.m3u8?channel=asia1&type=m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/u17.png" group-title="PIALA ASIA U17", ASIA 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+https://bintangstreaming.my.id/connect/index.m3u8?channel=asia2&type=m3u8
+
+
+#EXTINF:-1 group-title="PIALA ASIA U17" tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/u17.png", ASIA 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://reliabletv.me/
+https://bintangstreaming.my.id/connect/index.m3u8?channel=asian3&type=m3u8
+
+
+#EXTINF:-1 group-title="PIALA ASIA U17" tvg-id="" tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/u17.png", ASIA 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ec426ed0179bd597da53009b5134b464:4d141c015d8437c4c87e29cfa9e26744
+https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/nf4cd3x1tq/out/v1/217476e3b50e4451975170fa67ff5eac/cenc.mpd
+
+#EXTINF:-1 group-title="PIALA ASIA U17" tvg-id="" tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/u17.png", ASIA 5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=159a2b4e1d2d7f16892d35d935a2fb34:07809840dd0f511221ca78459167d1b3
+https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/gdhz5mhnyu/out/v1/fe72171ab2684ab8b9ee3e2ffcc9cff2/cenc.mpd
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/u17.png" group-title="PIALA ASIA U17", ASIA 6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a31cf5136789514b7e12b9cc99307c84:980e54d671ffc2b2f4cf54e75cae0ac2
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+https://d1abp075u76pbq.cloudfront.net/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/u17.png" group-title="PIALA ASIA U17", ASIA 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+https://d1d2sbhidw0n3y.cloudfront.net/out/v1/cee2ab61ee8d4ff19cb0f0bffc37f9b8/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/u17.png" group-title="PIALA ASIA U17", ASIA 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+https://gtv-cutv.rctiplus.id/gtv-sdi-avc1_600000=7-mp4a_96000=1.m3u8
+
+
+
+
 
                       ############################### EPL TV ##################################
 
