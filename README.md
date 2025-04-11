@@ -664,10 +664,6 @@ https://live.sukabumi.tv:5443/LiveApp/streams/208647268646746749847667.m3u8
 #EXTVLCOPT:http-user-agent= Mozilla/5.0 (Windows NT 10.0; Win6 x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://5bf7b725107e5.streamlock.net/wmtv/wmtv/playlist.m3u8
  
-
-
-
-
 #EXTINF:-1 group-title="Lokal" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEliPldyuuJFdapnzelGY3xc-7_39bjfpfMAHRCvP7PVZf8W4JZvoDA97T1vvJd7EhLjG1CmZqeKMk0MaN153CDpu4uJrMNeuX6Tamoj4UVcnPgSyvGZrwL5F63At9kWffWZJ2pnR6oiKvG0oi5rlOP4cjEdHOEuvwFS7EHV3VoZk4eLDlqfWYXkoOqQ/s1600/nusantara.jpg",Nusantara TV
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
  
@@ -685,6 +681,52 @@ https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
  
 #EXTINF:-1 group-title="Lokal" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0Agznr-Wyg-rnViJsttvGGAg607y-YxnadfsjWuUC8_xvkWr0i16qo0afzfm7Lhw_yY_FaLHl6d4yehnoKl6MeMWAh3G9Tdr98DC16aUIeG225qSSPJwmBShQ_zXonM-q2TUgLrbKegmFgNStX3SCFTkmgOWK0PAYouUPwEk6rnprdsJ0SWXEGhIsnQ/s1600/jogja%20%281%29.jpg",Surabaya TV
 https://v3.siar.us/surabayatv/live/playlist.m3u8
+
+
+                                                 <====================== "TV Daerah" ======================>
+
+
+#EXTINF:-1 group-title="TV Daerah" tvg-logo="https://dl.dropbox.com/s/cbsk6rka0jbxfrc/Jogja%20tv.jpeg",Jogja TV
+https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
+#EXTINF:-1 group-title="TV Daerah" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxqzc2QeNDLZhyrMHQHQadBys9lVFSuBKIGzdtUQ4_jtKWF_HelQBB23XqvUojyQz1JIVa5BgJNB4lTVz9XgbF5wImruRypt_pTgOYqx8rS9ut8zMf49NKZQDvfxfuA0Vzfc2RcvLHiBk/s720/jitv-p.png",JITV jogja
+http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8
+#EXTINF:-1 group-title="TV Daerah" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUg-o_gDdzQ8fVXyf7XGo1AlDD3iKHw_BRrN190NGTeEfjp_jlFivApXiWUtmwQbjPzt-kDdTzUZYJ-F13saFU-xq1iduq8RFIWY9wq27TFNubmaczwKXYO1YQ7HN-pKL93NDFs_B48vUxZkDdoscLgENj3s1M-7PM9r9AQiIdFv1ilDzgi9wmzND-2Yqj/s340/saktitv%20(1).png",SAKTI TV
+https://saktitv.siar.us/saktitv/live/playlist.m3u8
+#EXTINF:-1 group-title="TV Daerah" tvg-logo="https://dl.dropbox.com/scl/fi/tzqmzi42e2gnfb9tzcycn/primatv.png?rlkey=9uhtk6vz2nhcoyij3ampm3mtp&dl=0",Prima tv
+https://primatv.siar.us/primatv/live/playlist.m3u8
+#EXTINF:-1 group-title="TV Daerah" tvg-logo="https://i.imgur.com/B4JW54M.png",Duta TV
+https://dutatv.siar.us/dutatv/live/playlist.m3u8
+#EXTINF:-1 group-title="TV Daerah" tvg-logo="https://dl.dropbox.com/scl/fi/qpldj6lylco8dgyqd5zo8/tabalong.png?rlkey=pyng1ksjjjvzcenjxpcgnp4h5&dl=0",TV Tabalong
+https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
+#EXTINF:-1 group-title="TV Daerah" tvg-logo="https://dl.dropbox.com/scl/fi/zswhs46qkwk2qh43hgtcj/Madu-tv.jpeg?rlkey=svlkahczx5x2rj6kq6mzx94cq&dl=0",Madu TV Nusantara
+https://re1.siar.us/madutv/hd720/playlist.m3u8
+#EXTINF:-1 group-title="TV Daerah" tvg-logo="https://dl.dropbox.com/s/f6sxdmd5b8k51op/UG%20Tv.jpeg",UGTV
+https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
+#EXTINF:-1 group-title="TV Daerah" tvg-logo="https://dl.dropbox.com/s/r9sumtq5hrbg8n8/Rctv.jpeg",Radar Cirebon TV
+https://v10.siar.us/rctv/live/playlist.m3u8
+#EXTINF:-1 group-title="TV Daerah" tvg-logo="https://dl.dropbox.com/s/tqsro9x223hoe79/Jawapos%20tv.jpeg",JawaPos TV
+https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
+#EXTINF:-1 group-title="TV Daerah" tvg-logo="https://dl.dropbox.com/s/z6in94w88gx9t7a/MGS%20Tv.jpeg",MGS TV
+https://cdn.gunadarma.ac.id/streams/mgstv/ingestmgstv.m3u8
+#EXTINF:-1 group-title="TV Daerah" tvg-logo="https://dl.dropbox.com/s/nbda0lq388h7s71/btv.jpeg",BALIKPAPAN TV
+https://5bf7b725107e5.streamlock.net/btv/btv/playlist.m3u8?checkedby:iptvcat.org
+#EXTINF:-1 group-title="TV Daerah" tvg-logo="https://dl.dropbox.com/scl/fi/5y807h2kam8vatij6zfsv/Bantentv.jpeg?rlkey=qeq3tg5saxxomgi0uszamwxrr&dl=0",Banten TV
+https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8?checkedby:iptvcat.org
+#EXTINF:-1 group-title="TV Daerah" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/4prui3phijpxecx7lhhn9/sangajitv.png?rlkey=2zb8cf457p3mtpapq7zzcdqd0&dl=0",Sangaji tv
+https://cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv.m3u8
+#EXTINF:-1 group-title="TV Daerah" tvg-logo="https://www.googleapis.com/drive/v3/files/1SVB2SJAZxvQh8wHQX4Nve3Z8dp7_YHA1?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4",Bandung tv
+http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
+#EXTINF:-1 group-title="TV Daerah" tvg-logo="https://dl.dropbox.com/scl/fi/j8njylms2itbng7tw3l1s/dhamma.png?rlkey=qhbf6dt7h57qxive71qsuiwyc&dl=0",Dhamma TV
+https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8
+#EXTINF:-1 group-title="TV Daerah" tvg-logo="https://wiki.edunitas.com/_sepakbola/_baca_image.php?td=21&kodegb=200px-Kilisuci_TV.png",Kilisuci TV
+https://5bf7b725107e5.streamlock.net:443/kstv/kstv/playlist.m3u8
+#EXTINF:-1 group-title="TV Daerah" tvg-logo="https://dl.dropbox.com/scl/fi/ub0mw6uhxujbd2fzjjhdz/lingkar-tv.png?rlkey=z30k4l2lgif1adpuw59zkvj3d&dl=0",Lingkar TV
+https://lingkartv.my.id/hls/lingkartv.m3u8
+#EXTINF:-1 group-title="TV Daerah" tvg-logo="https://dl.dropbox.com/scl/fi/gu4pg46o4f9ugkcailccr/bungo.png?rlkey=lpiu2lvypft2c7pji2edkqzch&dl=0",Bungo TV
+https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8
+
+
+
   
 #EXTM3U url-tvg="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml"
 
